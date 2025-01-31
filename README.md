@@ -11,8 +11,6 @@ Me encanta aprender cosas nuevas. 👽👾
 
 ---
 
-## 📊 Estadísticas de GitHub
-
 [![Estadísticas](https://github-readme-stats.vercel.app/api?username=Ckabos&show_icons=true&theme=radical)](https://github.com/Ckabos)
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckabos&layout=compact&theme=radical)](https://github.com/Ckabos)
 
