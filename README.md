@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola, soy Efrain Vazquez ! 👋
 
-<!--
-**Ckabos/Ckabos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Banner](https://i.imgur.com/tu-imagen-de-banner.png)](https://tu-enlace.com)
 
-Here are some ideas to get you started:
+Soy un estudiante apasionado por "la tecnología, la programacion y la ciberseguridad"]. Me encanta aprender cosas nuevas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y herramientas
+
+![Tecnologías](https://skillicons.dev/icons?i=arch,linux,git,github,bash,python,vim)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=Ckabos&show_icons=true&theme=radical)](https://github.com/Ckabos)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckabos&layout=compact&theme=radical)](https://github.com/Ckabos)
+
+---
+
+## 🌟 Proyectos destacados
+
+- **[Nordotfiles](https://github.com/Ckabos/nordotfiles.git)**: Personalizacion de entorno de trabajo WM (BSPWM).
+
+
+---
+
+## 📫 Contacto
+
+[![Email](https://img.shields.io/badge/Email-tu-email%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:efra.chivas.evf@mail.com)
+
+---
+
+## 🎨 Un poco sobre mí
+
+- 🎮 Me encanta jugar videojuegos en mi tiempo libre.
+- 📚 Siempre estoy leyendo un buen libro.
+- 🌱 Actualmente estoy aprendiendo ciberseguridad.
+
+---
+
+¡Gracias por visitar mi perfil! 😊
