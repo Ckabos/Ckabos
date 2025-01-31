@@ -1,8 +1,7 @@
 # ¡Hola, soy Efrain Vazquez ! 👋
 
-[![Banner](https://i.imgur.com/tu-imagen-de-banner.png)](https://tu-enlace.com)
-
-Soy un estudiante apasionado por "la tecnología, la programacion y la ciberseguridad"]. Me encanta aprender cosas nuevas
+Soy un estudiante apasionado por "la tecnología, la programacion y la ciberseguridad". 
+Me encanta aprender cosas nuevas. 👽👾
 
 ---
 
@@ -28,7 +27,7 @@ Soy un estudiante apasionado por "la tecnología, la programacion y la cibersegu
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-tu-email%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:efra.chivas.evf@mail.com)
+[![Email](https://img.shields.io/badge/Email-efra.chivas.evf%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:efra.chivas.evf@gmail.com)
 
 ---
 
