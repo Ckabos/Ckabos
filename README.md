@@ -13,7 +13,7 @@
 </div>
 
 ```
-                              00                      efrain@Ckabos
+                              00                       efrain@Ckabos
                               11                      ┌───────────────────────────────┐ 
                              ====                        BlackArch Linux x86_64
                              .//                         Linux 6.13.5-arch1-1
@@ -35,8 +35,14 @@
             `++:.             //            `-/+/
            .`                /                `/
 ```
-
 ---
+
+![Arch Linux](https://img.shields.io/badge/OS-BlackArch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/WM-Hyprland-blueviolet?style=for-the-badge&logo=wayland&logoColor=white)
+<img src="https://img.shields.io/badge/Shell-Zsh-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/Editor-Neovim-green?style=for-the-badge&logo=neovim&logoColor=white">
+---
+
 
 ## 🛠️ Tecnologías y herramientas
 
