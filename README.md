@@ -5,6 +5,12 @@ Me encanta aprender cosas nuevas. 👽👾
 
 ---
 
+## 🎵 Escuchando música
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=hl381txox12q1o2wnwk0c2kyz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=944fe8)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
 ## 🛠️ Tecnologías y herramientas
 
 ![Tecnologías](https://skillicons.dev/icons?i=arch,linux,git,github,bash,python,vim)
