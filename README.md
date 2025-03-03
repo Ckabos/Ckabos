@@ -1,12 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=¡Hola,+soy+Efraín+Vázquez+!+%f0%9f%91%8b;Soy+un+estudiante+apasionado+por+la+tecnología,+la+programación+y+la+ciberseguridad.;Me+encanta+aprender+cosas+nuevas.+%f0%9f%91%bd%f0%9f%91%be)](https://github.com/Ckabos)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=¡Hola,+soy+Efrain+Vazquez+!+%f0%9f%91%8b;Soy+un+estudiante+apasionado+por+la+tecnología,;La+programación+y+la+ciberseguridad.;Me+encanta+aprender+cosas+nuevas.+%f0%9f%91%bd%f0%9f%91%be)](https://github.com/Ckabos)
 
-![Vistas del perfil](https://komarev.com/ghpvc/?username=Ckabos&color=blueviolet&style=flat-square)
+<h3 align="center">"Hablo con la gente a través del código."</h3>
+<h4 align="center">- Linus Torvalds -</h4>
+<br>
+<div align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Ckabos&color=blueviolet&style=flat-square">
+  <img src="https://api.statusbadges.me/badge/status/529051044127309824?simple=true" alt="status">
+  <img src="https://api.statusbadges.me/badge/playing/529051044127309824" alt="playing">
+  <a href="https://api.statusbadges.me/openspotify/529051044127309824" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/529051044127309824" alt="spotify"></a>
+  <img src="https://api.statusbadges.me/badge/crunchyroll/529051044127309824" alt="crunchyroll">
+<p align="center">I use Arch btw! </p>
 
----
-
-## 🎵 Escuchando música
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=hl381txox12q1o2wnwk0c2kyz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=944fe8)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 ---
 
@@ -32,29 +37,6 @@
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/Email-efra.chivas.evf%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:efra.chivas.evf@gmail.com)
-
----
-
-## 🏆 Status
-
-![status](https://api.statusbadges.me/badge/status/529051044127309824?simple=true)
-
-### 🎮 Playing
-
-![playing](https://api.statusbadges.me/badge/playing/529051044127309824)
-
-### 💻 IDEs en uso
-
-![vscode](https://api.statusbadges.me/badge/vscode/529051044127309824)  
-![intellij](https://api.statusbadges.me/badge/intellij/529051044127309824)
-
-### 🎵 Spotify
-
-[![spotify](https://api.statusbadges.me/badge/spotify/529051044127309824)](https://api.statusbadges.me/openspotify/529051044127309824)
-
-### 📺 Crunchyroll
-
-![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/529051044127309824)
 
 ---
 
