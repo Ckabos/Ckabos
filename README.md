@@ -1,15 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8562d0&size=35&center=true&vCenter=true&width=1200&lines=¡Hola+mundo+!+%f0%9f%91%8b)](https://github.com/Ckabos)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8562d0&size=35&left=true&vCenter=true&width=1200&lines=¡Hola+mundo+!+%f0%9f%91%8b)](https://github.com/Ckabos)
 
-<h3 align="center">"Hablo con la gente a través del código."</h3>
-<h4 align="center">- Linus Torvalds -</h4>
+<h3 align="left">"Hablo con la gente a través del código."</h3>
+<h4 align="left">- Linus Torvalds -</h4>
 <br>
-<div align="center">
+<div align="left">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Ckabos&color=blueviolet&style=for-the-badge">
   <img src="https://api.statusbadges.me/badge/status/529051044127309824?simple=true&style=for-the-badge" alt="status">
   <img src="https://api.statusbadges.me/badge/playing/529051044127309824?style=for-the-badge" alt="playing">
   <a href="https://api.statusbadges.me/openspotify/529051044127309824" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/529051044127309824?style=for-the-badge" alt="spotify"></a>
   <img src="https://api.statusbadges.me/badge/crunchyroll/529051044127309824?style=for-the-badge" alt="crunchyroll">
-<p align="center">I use Arch btw! </p>
+<p align="left">I use Arch btw! </p>
 </div>
 
 ```
